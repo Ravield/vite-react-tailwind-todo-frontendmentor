@@ -10,4 +10,7 @@ Currently, two official plugins are available:
 #Aplicación To Do para practicar React + Tailwind
 
 -   [Preview app](https://marcotodoapp.netlify.app/)
+
+Abrir en modo mobile para mejor apreciación
+
 -   [Frontend Mentor challenge](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW)
